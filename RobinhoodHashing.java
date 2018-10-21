@@ -1,5 +1,3 @@
-package sxa180065;
-
 import java.util.HashSet;
 import java.util.Random;
 
